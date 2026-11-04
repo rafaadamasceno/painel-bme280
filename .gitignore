@@ -1,0 +1,11 @@
+# Ignorar logs, pastas locais e documentos
+log.txt
+graficos/
+graficos_teste/
+*.docx
+*.pdf
+*.png
+README.md
+requirements.txt
+atualizar.bat
+configuracao.txt
